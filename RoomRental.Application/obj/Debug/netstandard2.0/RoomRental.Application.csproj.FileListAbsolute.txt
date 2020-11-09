@@ -1,0 +1,12 @@
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\bin\Debug\netstandard2.0\RoomRental.Domain.dll
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\obj\Debug\netstandard2.0\RoomRental.Application.AssemblyInfoInputs.cache
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\obj\Debug\netstandard2.0\RoomRental.Application.AssemblyInfo.cs
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\bin\Debug\netstandard2.0\RoomRental.Application.deps.json
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\bin\Debug\netstandard2.0\RoomRental.Application.dll
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\bin\Debug\netstandard2.0\RoomRental.Application.pdb
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\bin\Debug\netstandard2.0\RoomRental.Domain.pdb
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\obj\Debug\netstandard2.0\RoomRental.Application.csprojAssemblyReference.cache
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\obj\Debug\netstandard2.0\RoomRental.Application.csproj.CopyComplete
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\obj\Debug\netstandard2.0\RoomRental.Application.dll
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\obj\Debug\netstandard2.0\RoomRental.Application.pdb
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Application\obj\Debug\netstandard2.0\RoomRental.Application.csproj.CoreCompileInputs.cache

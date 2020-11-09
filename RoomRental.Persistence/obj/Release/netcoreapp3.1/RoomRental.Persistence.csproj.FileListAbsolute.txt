@@ -1,0 +1,17 @@
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\bin\Release\netcoreapp3.1\RoomRental.Persistence.deps.json
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\bin\Release\netcoreapp3.1\RoomRental.Persistence.runtimeconfig.json
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\bin\Release\netcoreapp3.1\RoomRental.Persistence.runtimeconfig.dev.json
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\bin\Release\netcoreapp3.1\RoomRental.Persistence.dll
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\bin\Release\netcoreapp3.1\RoomRental.Persistence.pdb
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\bin\Release\netcoreapp3.1\RoomRental.Application.dll
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\bin\Release\netcoreapp3.1\RoomRental.Domain.dll
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\bin\Release\netcoreapp3.1\RoomRental.Application.pdb
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\bin\Release\netcoreapp3.1\RoomRental.Domain.pdb
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\obj\Release\netcoreapp3.1\RoomRental.Persistence.csprojAssemblyReference.cache
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\obj\Release\netcoreapp3.1\RoomRental.Persistence.AssemblyInfoInputs.cache
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\obj\Release\netcoreapp3.1\RoomRental.Persistence.AssemblyInfo.cs
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\obj\Release\netcoreapp3.1\RoomRental.Persistence.csproj.CoreCompileInputs.cache
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\obj\Release\netcoreapp3.1\RoomRental.Persistence.csproj.CopyComplete
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\obj\Release\netcoreapp3.1\RoomRental.Persistence.dll
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\obj\Release\netcoreapp3.1\RoomRental.Persistence.pdb
+D:\!schrool\7 semestras\Saitynas\projektas\RoomRental.WebAPI\RoomRental.Persistence\obj\Release\netcoreapp3.1\RoomRental.Persistence.genruntimeconfig.cache

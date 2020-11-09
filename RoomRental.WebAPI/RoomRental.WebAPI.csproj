@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>9bea2657-a4dc-4fdc-a161-da6f7147d981</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Authentication\IJwtAuthenticationManager.cs1" />
+    <None Remove="Authentication\JwtAuthenticationManager.cs1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Authentication\IJwtAuthenticationManager.cs1" />
+    <Compile Include="Authentication\JwtAuthenticationManager.cs1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RoomRental.Application\RoomRental.Application.csproj" />
+    <ProjectReference Include="..\RoomRental.Persistence\RoomRental.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

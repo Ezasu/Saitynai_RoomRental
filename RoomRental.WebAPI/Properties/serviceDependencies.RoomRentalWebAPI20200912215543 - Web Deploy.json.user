@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-09-12T19:55:45.4786113Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "RoomRentalWebAPI20200912215543ResourceGroup"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "133582ff-289a-4b08-a109-e5cdb764b06b"
+    }
+  }
+}

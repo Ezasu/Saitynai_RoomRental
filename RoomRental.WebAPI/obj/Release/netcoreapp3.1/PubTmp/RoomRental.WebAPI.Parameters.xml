@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="RoomRentalWebAPI20200912215543" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\!schrool\\7\ semestras\\Saitynas\\projektas\\RoomRental\.WebAPI\\RoomRental\.WebAPI\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
